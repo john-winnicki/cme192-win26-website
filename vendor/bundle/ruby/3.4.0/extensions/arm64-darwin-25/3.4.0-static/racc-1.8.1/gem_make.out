@@ -1,0 +1,19 @@
+current directory: /Users/winnicki/cme192-win26-website/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+/Users/winnicki/.rubies/ruby-3.4.1/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/winnicki/cme192-win26-website/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260107-17226-dogs4w sitelibdir\=./.gem.20260107-17226-dogs4w clean
+
+current directory: /Users/winnicki/cme192-win26-website/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260107-17226-dogs4w sitelibdir\=./.gem.20260107-17226-dogs4w
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: search path '/opt/homebrew/opt/gdbm/lib' not found
+
+current directory: /Users/winnicki/cme192-win26-website/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260107-17226-dogs4w sitelibdir\=./.gem.20260107-17226-dogs4w install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20260107-17226-dogs4w/racc
+
+current directory: /Users/winnicki/cme192-win26-website/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260107-17226-dogs4w sitelibdir\=./.gem.20260107-17226-dogs4w clean

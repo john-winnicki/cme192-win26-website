@@ -1,0 +1,2 @@
+--enable-system-libffi
+--with-ffi-dir=/opt/homebrew/opt/libffi
