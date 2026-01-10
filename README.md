@@ -39,7 +39,7 @@ Logistics:
 - [x] Update Calendar url
 - [x] Update Zoom link
 - [ ] Update 2019 fall project link
-- [x] Update Course Syllabus 
+- [x] Update Course Schedule 
 
 ## What can be improved
 Below is a list of suggested changes for the website and content:

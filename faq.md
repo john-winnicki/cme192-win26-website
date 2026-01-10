@@ -15,86 +15,58 @@ micro_nav: false
 ---
 
 ## What is the grading breakdown?
-Below is the breakdown of class grade:
- * 50%: Final project
- * 35%: Programming assignment
- * 15%: Quizzes
+- **Assignment 1 / OnRamp certification:** 33%
+- **Assignment 2:** 33%
+- **Attendance:** 34%
 
-## Will there be a midterm exam?
-No, there will not be a midterm this quarter. Instead, more emphasis will be placed on the project.
+## Are there midterms or quizzes?
+No. Your grade is based on the two assignments and attendance.
 
-## Will there be a poster session?
-No, there will not be a poster session this quarter. We are looking into other alternatives for a remote poster session though.
+## When and where is class?
+- **Day/Time:** Thursdays, 4:30 PM – 5:20 PM
+- **Room:** Hewlett Teaching Center 102
+- **Duration:** 8 weeks / 8 lectures (Winter 2026)
 
-## Will there be sections?
-Yes, there will still be sections. Check piazza for information about logistics.
+## How do I access course materials?
+- Primary site: this course website.
+- Also posted on [Canvas](https://canvas.stanford.edu/courses/218100) and the course [GitHub](https://github.com/john-winnicki/cme192-win26).
 
-## How do I join lectures?
-Lectures will be held 9-10:20AM (PST) over Zoom. You can watch the lectures live by going to Canvas, and going to the <a href="https://canvas.stanford.edu/courses/117317/external_tools/5384">Zoom tab</a>. Recordings will also be posted after lecture onto Canvas.
+## What are the assignments and due dates?
+Two applied MATLAB assignments (individual or small teams):
+- Assignment 1 due: **February 15**
+- Assignment 2 due: **March 15**
 
-## Can I get a letter grade?
-All grading this quarter will be done on a S/NC scale (Satisfactory / No Credit). In rare cases you may receive an unofficial grade (for example if you previously took the class Incomplete and are re-taking a component this quarter). If this applies to you make a private post on Piazza.
+## When will the assignments be released? 
+The assignments will be released at least 2 weeks prior to the due date, but usually much sooner. 
 
-## How is the final project graded?
-The final project grade will incorporate the following components:
- * Grade on 5 deliverables
- * Meeting attendance/participation for 4 TA meetings
+## What is the late policy?
+- Up to **72 hours** late: **10% penalty**, no justification needed.
+- For excused late submissions, request late days **at least 24 hours before** the deadline via the online form. Approved late days incur no penalty.
 
-## What are the deliverables as part of the final project?
-The project has main deliverables:
- * Proposal
- * Milestone #1
- * Milestone #2
- * Final video
- * Final report
+## Is attendance required?
+Yes. Attend at least **four** class sessions. Sign-in is collected each lecture. If you expect to miss more than four sessions, use the course form (linked from the website/Canvas) to explain the absences.
 
-Deadlines are listed in the project page and on the schedule page of the website.
+## Can I work in a team?
+Yes. Assignments may be done individually or in small teams (e.g., pairs/triads). Scope expectations scale with team size.
 
-## Should final project use only methods taught in classroom?
-No, we don't restrict you to only use methods/topics/problems taught in class. That said, you can always consult a TA if you are unsure about any method or problem statement.
+## How do I request a regrade?
+Submit a regrade request on Gradescope within **one week** of the grade release.
 
-## Is it okay to use a dataset that is not public?
-We don't mind you using a dataset that is not public, as long as you have the required permissions to use it. We don't require you to share the dataset either as long as you can accurately describe it in the Final Report.
+## What are the prerequisites?
+- An **introductory programming** course (e.g., CS 101 / CS 106A / CS 193), and
+- An **introductory linear algebra** course (e.g., Math 51).
 
-## Is it okay to combine the CS230 term project with that of another class ?
-In general it is possible to combine your project for CS230 and another class, but with the following caveats:
- * You should make sure that you follow all the guidelines and requirements for the CS230 project (in addition to the requirements of the other class). So, if you'd like to combine your CS230 project with a class X but class X's policies don't allow for it, you cannot do it.
- * You cannot turn in an identical project for both classes, but you can share common infrastructure/code base/datasets across the two classes.
- * Clearly indicate in your milestone and final report, which part of the project is done for CS230 and which part is done for a class other than CS230. For shared projects, we also require that you submit the final report from the class you're sharing the project with.
-Do all team members need to be enrolled in CS230?
-No, but please explicitly state the work which was done by team members enrolled in CS230 in your proposal, milestone and final report. This extends to projects that were done in collaboration with research groups as well.
+If you lack a programming background, complete **MATLAB Onramp** (~2 hours) and part of the **Build MATLAB Proficiency** Onramp (~4 hours).
 
-## What are acceptable team sizes and how does grading differ as a function of the team size ?
-We recommend teams of 3 students, while teams sizes of 1 or 2 are also acceptable. The team size will be taken under consideration when evaluating the scope of the project in breadth and depth, meaning that a three-person team is expected to accomplish more than a one-person team would.
+## Do I need a textbook?
+No required textbook. Recommended references are listed on the home page (e.g., *Numerical Computing with MATLAB* by Cleve Moler).
 
-The reason we encourage students to form teams of 3 is that, in our experience, this size usually fits best the expectations for the CS230 projects. In particular, we expect the team to submit a completed project (even for team of 1 or 2), so keep in mind that all projects require to spend a decent minimum effort towards gathering data, and setting up the infrastructure to reach some form of result. In a three-person team this can be shared much better, allowing the team to focus a lot more on the interesting stuff, e.g. results and discussion.
+## What software do I need?
+- MATLAB (campus license provided).
+- You can use **MATLAB Online** (no install) or a desktop install. License info: [uit.stanford.edu/service/softwarelic/matlab](https://uit.stanford.edu/service/softwarelic/matlab).
+- A laptop in class is recommended.
 
-In exceptional cases, we can allow a team of 4 people. If you plan to work on a project in a team of 4, please come talk to one of the TAs beforehand so we can ensure that the project has a large enough scope.
-
-
-## How do I get Tensorflow / PyTorch installed on my machine?
-The easiest option is to install the [Anaconda](https://www.anaconda.com/) Python environment manager. This is a tool that allows you to set up multiple Python environments with different packages. Anaconda is compatible with Mac, Windows, and Linux.  It’s 2019, so you’ll want to install the Python 3 version of Anaconda to start out with. [Here](https://www.anaconda.com/blog/developer-blog/tensorflow-in-anaconda/) is how to install Tensorflow easily. 
-
-For PyTorch, follow the above step and also run the command: conda install pytorch torchvision -c pytorch
-
-## Where can I find some inspiration or ideas for projects?
-A first step is to survey what’s been done by previous CS230 students. You can check out previous projects on the projects page of the site. You’ll also want to do some searching for datasets you’re interested in. It’s one thing to have a cool model idea, but you still need a good enough dataset to go with it so do some digging for what kind of data interests you. A few other great resources are the “Awesome X” series of GitHub pages that breakdown great papers, datasets, and GitHub repos in respective fields: [Awesome NLP](https://github.com/keon/awesome-nlp), [Awesome CV](https://github.com/jbhuang0604/awesome-computer-vision), [Awesome GAN](https://github.com/nightrome/really-awesome-gan). 
-
-## I’m deciding between CS229, CS229A, CS221, CS224N, CS231N, etc. Which should I take?
-There’s no straight forward answer since all are great options! If you’re specifically interested in deep learning and want a general overview, CS230 is your choice. If you rather specialize in a specific domain like computer vision or NLP and feel comfortable with a faster pace, then take CS231N or CS224N. If you don’t have any experience with machine learning, it’s still possible to do CS230 just fine as long as you can follow along with the coding assignments and math. For a more holistic understanding of machine learning (ML is more than deep learning!), CS229A and CS221 are solid options. If you want to go back to the very core mathematical foundations that underpin the history of ML, then take CS229.
-
-## What’s the difference between normal office hours and project office hours?
-Normal office hours should generally be attended if you would like some help on the homework assignments. Once you have a team and the team has submitted a proposal, you’ll  be assigned a designated project TA who will serve as a mentor for our project. Keep updated with Piazza and email to keep track of when you’re required and able to sign up for a meet-up with your mentor for project office hours. These are informal meetings where you can talk about your ideas, concerns, or interests related to the project.
-
-## I need help debugging my code for my project. How do I get help?
-You should reach out to your project mentor. You could either sign-up for on of their open office hours or contact them directly to set up an appointment. Try to have as much debugging information available such as error messages, stack-traces, and documentation.
-
-## Is there a textbook or other resource I could use to supplement my learning?
-Not officially, but a great resource is [The Deep Learning book](http://www.deeplearningbook.org/). You can also find lecture videos from CS231N and CS224N on YouTube for free that might go a bit more in-depth with some of the concepts we will cover
-
-## I want to do a project in NLP, computer vision, with GANs, etc but it wasn’t covered much in lecture. How can I get more resources?
-See the question above. You might have to learn some core concepts there on your own such as doc2vec or auto-encoders by checking out research papers and other types of content (blog posts, courses, videos, etc.) to better grasp the content. Please ask for help, the TAs often have great content to direct you to. 
-
-## Can I audit CS230?
-
-In general we welcome guests to sit-in on lectures if they are a member of the Stanford community (registered student, staff, and/or faculty). If the class is too crowded and we're out of space, we ask to give priority to enrolled students. To get access to the course materials (including the Coursera private sessions), you have to enroll in the class or be a Research Scientist, Visiting Scholar, Postdoctoral student, faculty or staff and have a SUNet ID. We do not give access to the Coursera platform to students who aren't in the above categories. If you are a Research Scientist, Visiting Scholar, Postdoctoral student, Faculty or Staff with a valid SUNet ID, please contact us at cs230-qa@cs.stanford.edu to be added as an auditor to the class.
+## How do I contact the instructor?
+- Email: winnicki@stanford.edu
+- Office: Building 520, Room 133
+- Office hours: by appointment (in person)

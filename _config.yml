@@ -1,27 +1,21 @@
 # Temporary GitPage Host setup
-title: CS230 Deep Learning
-baseurl: "/cs230-2020-spring"
-repository: "vineetk/cs230-2020-spring"
+title: CME192 MATLAB for Scientific Computing and Engineering
+baseurl: "/cme192-win26"
+repository: "john-winnicki/cme192-win26"
 
 # Theme settings
 doks:
     color_theme: blue
     header:
         logo:
-            text: CS230
+            text: CME192
             image: true
         nav:
-            - item_name: Syllabus
-              item_url: '/syllabus'
-            - item_name: Office Hours
-              item_url: '/officehours'
-            - item_name: Project
-              item_url: '/project'
-            - item_name: Section
-              item_url: '/section'
+            - item_name: Schedule
+              item_url: '/schedule'
             - item_name: Lecture
               item_url: '/lecture'
-            - item_name: Blog
+            - item_name: Notes
               item_url: '/blog'
             - item_name: FAQ
               item_url: '/faq'
@@ -54,13 +48,10 @@ permalink: /:title/
 
 # Course logistics
 course:
-    quarter: 2020 Spring
-    time: Tue 9:00 AM - 10:20 AM
-    venue: '<a href="https://canvas.stanford.edu/courses/117317/external_tools/5384">Zoom (access via "Zoom" tab of Canvas)</a>'
+    quarter: Winter 2026
+    time: Thu 4:30 PM - 5:20 PM
+    venue: Hewlett Teaching Center 102
     piazza: &pz 'https://piazza.com/class/k8jbpjv3nd3lk'
-    queuestatus:
-        url: &qs 'https://queuestatus.com/queues/515'
-        name: 'CS230 (2020 Spring)'
     canvas: 'https://canvas.stanford.edu'
     project_timeline:
         proposal: 2020-04-22T23:59:00-07:00
@@ -70,11 +61,26 @@ course:
         long_date_format: "%B %-d, %A %I:%M %p"
         syllabus_date_format: "%m/%d %A %I:%M %p"
     links:
-        syllabus:
+        schedule:
+            icon:
+            content: Schedule
+            url: '/schedule'
+            external_url: true
+        syllabus-pdf:
             icon:
             content: Syllabus
-            url: '/syllabus'
-            external_url: false
+            url: 'https://github.com/john-winnicki/cme192-win26/blob/main/CME192_Syllabus.pdf'
+            external_url: true
+        canvas:
+            icon:
+            content: Canvas
+            url: 'https://canvas.stanford.edu/courses/218100'
+            external_url: true
+        github:
+            icon:
+            content: GitHub
+            url: 'https://github.com/john-winnicki/cme192-win26'
+            external_url: true
         past-projects:
             icon:
             content: Past Projects
@@ -117,9 +123,9 @@ course:
             external_url: false
         video2018:
             icon:
-            content: Lecture videos (Fall 2018)
-            url: '/lecture/'
-            external_url: false
+            content: Github
+            url: 'https://github.com/john-winnicki/cme192-win26'
+            external_url: true
         piazza:
             icon:
             content: Piazza
@@ -127,72 +133,12 @@ course:
             external_url: true
         video:
             icon:
-            content: Lecture videos (Canvas)
-            url: 'https://canvas.stanford.edu/courses/117317/external_tools/5384'
-            external_url: true
-        queuestatus:
-            icon:
-            content: QueueStatus
-            url: *qs
-            external_url: true
-        project_appt_calendly:
-            content: Meet with Project TA
-            url: '/officehours/#table'
+            content: Canvas
+            url: 'https://canvas.stanford.edu/courses/218100'
             external_url: true
     staff:
-        - name: Andrew Ng
+        - name: John Winnicki
           type: Instructor
-          url: https://www.andrewng.org/
-          image: andrew.jpg
-        - name: Kian Katanforoosh
-          type: Instructor
-          url: https://www.linkedin.com/in/kiankatan/
-          image: kian.jpg
-        - name: Swati Dube
-          type: Coordinator
-          url: http://www.linkedin.com/in/swatidube/
-          image: swati.jpg
-        - name: Vineet Kosaraju
-          type: Head TA
-          url:
-          image: vineet.png
-          url: https://vineetkosaraju.com/
-          zoom_id: 2698484179
-          calendly: https://calendly.com/cs230spring2020/vineet-project-oh
-    ta:
-        - name: Jo Chuang
-          type: On-campus TA
-          url: https://jochuang.com/
-          image: jo.jpg
-          zoom_id: 8543765436
-          calendly: https://calendly.com/cs230spring2020/jo-project-oh
-        - name: Shahab Mousavi
-          type: On-campus TA
-          url: https://www.linkedin.com/in/shahab-mousavi-39394738/
-          image: shahab.jpg
-          zoom_id: 9392472642
-          calendly: https://calendly.com/cs230spring2020/shahab-project-oh
-        - name: Advay Pal
-          type: On-campus TA
-          url: https://advaypal.com/
-          image: advay.jpg
-          zoom_id: 5123418143
-          calendly: https://calendly.com/cs230spring2020/advay-project-oh
-        - name: Pranav Rajpurkar
-          type: On-campus TA
-          url: https://rajpurkar.github.io/
-          image: pranav.jpg
-          zoom_id: 7586009555
-          calendly: https://calendly.com/cs230spring2020/pranav-project-oh
-        - name: Shubhang Desai
-          type: On-campus TA
-          url: https://shubhangdesai.github.io/
-          image: shubhang.png
-          zoom_id: 5399479266
-          calendly: https://calendly.com/cs230spring2020/shubhang-project-oh
-        - name: Jonathan Lingjie Li
-          type: On-campus TA
-          url: https://www.linkedin.com/in/jonathan-li-23024679/
-          image: jonathan.png
-          zoom_id: 5824914282
-          calendly: https://calendly.com/cs230spring2020/jonathan-project-oh
+          url: https://linkedin.com/in/winnicki
+          image: JohnWinnicki.jpg
+    ta: []

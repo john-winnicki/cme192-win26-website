@@ -5,7 +5,7 @@
 /* ----- General ----- */
 .hero-subheader {
 	color: $color-dark-blue;
-	background: $gradient-icme-soft;
+	background: linear-gradient(90deg, $color-theme-blue 0%, $color-theme-orange 100%);
 	padding: 3.75rem 0 (4.6875rem - 1.25rem) 0;
 
 	@media (min-width: $screen-sm-min) {

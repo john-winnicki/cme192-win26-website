@@ -3,18 +3,17 @@ layout: default
 comments: false
 keywords:
 
-title: Syllabus
+title: Schedule
 description: For all "Materials and Assignments", follow the deadlines listed on this page, not on Coursera! Assignments are usually due every Tuesday, 30min before the class starts.
 buttons:
 micro_nav: false
 ---
 
 ## Announcements
-- **<span style='background-color: rgba(246,208,0,0.99);'>Please check out Piazza for an important announcement regarding revised final project deadlines.</span>**
 - Please check out the [FAQ](/faq) for a list of changes to the course for the remote, spring offering.
 - Please join [piazza](https://piazza.com/class/k8jbpjv3nd3lk) during the first week. This is where the majority of course announcements will be found.
 
-## Syllabus
+## Schedule
 
 <table id="schedule" class="table table-bordered no-more-tables" style="width: 100%; font-size: 0.8em;">
     <colgroup>
@@ -116,22 +115,6 @@ micro_nav: false
                 </ul>
             </td>
         </tr>
-        <tr style="background-color:#ffb7bf">
-            <td><strong>Project Meeting #1</strong></td>
-            <td><strong>{{ site.course.project_timeline.proposal | date: site.course.project_timeline.syllabus_date_format }}</strong></td>
-            <td><a href="/project/#proposal">Instructions</a></td>
-            <td></td>
-            <td>
-                <strong>Meet with any TA between 4/06 and 4/22 to discuss your proposal.</strong>
-            </td>
-        </tr>
-        <tr style="background-color:#b7ffbf">
-            <td><strong>Project Proposal Due</strong></td>
-            <td><strong>{{ site.course.project_timeline.proposal | date: site.course.project_timeline.syllabus_date_format }}</strong></td>
-            <td><a href="/project/#proposal">Instructions</a></td>
-            <td></td>
-            <td></td>
-        </tr>
         <tr>
             <td id="Module_2" colspan="5" style="text-align:center; vertical-align:middle;background-color:#fffde7">
                 <strong>Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization</strong> <a href="https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning">(Course 2)</a>
@@ -199,22 +182,6 @@ micro_nav: false
                 </ul>
             </td>
         </tr>
-        <tr style="background-color:#ffb7bf">
-            <td><strong>Project Meeting #2</strong></td>
-            <td><strong>{{ site.course.project_timeline.milestone1 | date: site.course.project_timeline.syllabus_date_format }}</strong></td>
-            <td><a href="/project/#milestone-1">Instructions</a></td>
-            <td></td>
-            <td>
-                <strong>Meet with your assigned TA between 4/23 and 5/08 to discuss your first milestone report.</strong>
-            </td>
-        </tr>
-        <tr style="background-color:#b7ffbf">
-            <td><strong>Project Milestone #1 Due</strong></td>
-            <td><strong>{{ site.course.project_timeline.milestone1 | date: site.course.project_timeline.syllabus_date_format }}</strong></td>
-            <td><a href="/project/#milestone-1">Instructions</a></td>
-            <td></td>
-            <td></td>
-        </tr>
         <tr>
             <td id="Module_4" colspan="5" style="text-align:center; vertical-align:middle;background-color:#fffde7">
                 <strong>Convolutional Neural Networks</strong> <a href="https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning">(Course 4)</a>
@@ -278,22 +245,6 @@ micro_nav: false
                     <li>Face Recognition</li>
                 </ul>
             </td>
-        </tr>
-        <tr style="background-color:#ffb7bf">
-            <td><strong>Project Meeting #3</strong></td>
-            <td><strong>{{ site.course.project_timeline.milestone2 | date: site.course.project_timeline.syllabus_date_format }}</strong></td>
-            <td><a href="/project/#milestone-2">Instructions</a></td>
-            <td></td>
-            <td>
-                <strong>Meet with your assigned TA between 5/09 and 5/24 to discuss your second milestone report.</strong>
-            </td>
-        </tr>
-        <tr style="background-color:#b7ffbf">
-            <td><strong>Project Milestone #2 Due</strong></td>
-            <td><strong>{{ site.course.project_timeline.milestone2 | date: site.course.project_timeline.syllabus_date_format }}</strong></td>
-            <td><a href="/project/#milestone-2">Instructions</a></td>
-            <td></td>
-            <td></td>
         </tr>
         <tr>
             <td id="Module_5" colspan="5" style="text-align:center; vertical-align:middle;background-color:#fffde7">
@@ -390,24 +341,5 @@ micro_nav: false
                 </ul>
             </td>
         </tr>
-        <tr style="background-color:#ffb7bf">
-            <td><strong>Project Meeting #4</strong></td>
-            <td><strong>{{ site.course.project_timeline.poster_and_report | date: site.course.project_timeline.syllabus_date_format }}</strong></td>
-            <td><a href="/project/#final-report">Instructions</a></td>
-            <td></td>
-            <td>
-                <strong>Meet with your assigned TA between 5/23 and 6/9 (before class) to discuss your final project report.</strong>
-            </td>
-        </tr>
-        <tr style="background-color:#b7ffbf">
-            <td><strong>Project Final Report &amp; Video Due</strong></td>
-            <td><strong>{{ site.course.project_timeline.poster_and_report | date: site.course.project_timeline.syllabus_date_format }}</strong></td>
-            <td><a href="/project/#final-report">Instructions</a></td>
-            <td></td>
-            <td>
-                <strong>Please read over the final project guidelines <a href="/project/#final-report">here</a> for information on the rubric and late submissions.</strong>
-            </td>
-        </tr>
     </tbody>
 </table>
-

@@ -13,7 +13,7 @@
 
 /* ----- Variations ----- */
 .section--darker-theme-color-bg {
-	background: linear-gradient(90deg, $color-icme-blue-light 0%, mix($color-icme-blue-light, $color-icme-orange-light, 50%) 60%, $color-icme-orange-light 100%);
+	background: linear-gradient(90deg, $color-theme-blue 0%, mix($color-theme-blue, $color-theme-orange, 50%) 60%, $color-theme-orange 100%);
 }
 
 .section--grey {

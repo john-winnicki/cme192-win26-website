@@ -5,7 +5,7 @@ keywords:
 
 # Hero section
 title: Lectures
-description: Lecture videos from the Fall 2018 offering of CS 230.
+description: Lecture materials.
 buttons:
 
 
@@ -13,73 +13,35 @@ buttons:
 grid_navigation:
     - title: Lecture 1
       text: Class Introduction and Logistics
-      excerpt: <iframe width="100%" height="100%" src="https://www.youtube.com/embed/PySo_6S4ZAg" frameborder="0" allowfullscreen></iframe>
-      cta: Read notes
-      url: /lecture/1
-      cta: YouTube Link
-      url: "https://www.youtube.com/embed/PySo_6S4ZAg"
+      excerpt: <iframe src="https://docs.google.com/presentation/d/1ukaVcLaaI-2llXlyjCS5LlKIRxmWEQwiWv2u-cJslVs/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+      cta: View slides
+      url: "https://docs.google.com/presentation/d/1ukaVcLaaI-2llXlyjCS5LlKIRxmWEQwiWv2u-cJslVs/edit?usp=drive_link"
     - title: Lecture 2
-      text: Deep Learning Intuition
-      excerpt: <iframe width="100%" height="100%" src="https://www.youtube.com/embed/AwQHqWyHRpU" frameborder="0" allowfullscreen></iframe> 
-      cta: Read notes
-      url: /lecture/2
-      cta: YouTube Link
-      url: "https://www.youtube.com/embed/AwQHqWyHRpU"
+      text: Advanced plotting and visualizations in MATLAB
+      cta: (Coming soon!)
+      disabled: true
     - title: Lecture 3
-      text: Full-Cycle Deep Learning Projects
-      excerpt: <iframe width="100%" height="100%" src="https://www.youtube.com/embed/JUJNGv_sb4Y" frameborder="0" allowfullscreen></iframe>
-      cta: Read notes
-      url: /lecture/3
-      cta: YouTube Link
-      url: "https://www.youtube.com/embed/JUJNGv_sb4Y"
+      text: Numerical Linear Algebra, ODEs/PDEs, and Symbolic Math
+      cta: (Coming soon!)
+      disabled: true
     - title: Lecture 4
-      text: Adversarial Attacks / GANs
-      excerpt: <iframe width="100%" height="100%" src="https://www.youtube.com/embed/ANszao6YQuM" frameborder="0" allowfullscreen></iframe>
-      cta: Read notes
-      url: /lecture/4
-      cta: YouTube Link
-      url: "https://www.youtube.com/embed/ANszao6YQuM"
+      text: Big data, python/c++ in MATLAB, Intro to machine learning
+      cta: (Coming soon!)
+      disabled: true
     - title: Lecture 5
-      text: AI + Healthcare
-      excerpt: <iframe width="100%" height="100%" src="https://www.youtube.com/embed/IM9ANAbufYM" frameborder="0" allowfullscreen></iframe>
-      cta: Read notes
-      url: /lecture/5
-      cta: YouTube Link
-      url: "https://www.youtube.com/embed/IM9ANAbufYM"
+      text: Statistics and Machine Learning in MATLAB
+      cta: (Coming soon!)
+      disabled: true
     - title: Lecture 6
-      text: Deep Learning Project Strategy
-      excerpt: <iframe width="100%" height="100%" src="https://www.youtube.com/embed/G5FNYxbW_Qw" frameborder="0" allowfullscreen></iframe>
-      cta: Read notes
-      url: /lecture/6
-      cta: YouTube Link
-      url: "https://www.youtube.com/embed/G5FNYxbW_Qw"
+      text: Optimization and Simulation/Modeling
+      cta: (Coming soon!)
+      disabled: true
     - title: Lecture 7
-      text: Interpretability of Neural Network
-      excerpt: <iframe width="100%" height="100%" src="https://www.youtube.com/embed/gCJCgQW_LKc" frameborder="0" allowfullscreen></iframe>
-      cta: Read notes
-      url: /lecture/7
-      cta: YouTube Link
-      url: "https://www.youtube.com/embed/gCJCgQW_LKc"
+      text: Image Processing and Signal Processing
+      cta: (Coming soon!)
+      disabled: true
     - title: Lecture 8
-      text: Career Advice / Reading Papers
-      excerpt: <iframe width="100%" height="100%" src="https://www.youtube.com/embed/733m6qBH-jI" frameborder="0" allowfullscreen></iframe>
-      cta: Read notes
-      url: /lecture/8
-      cta: YouTube Link
-      url: "https://www.youtube.com/embed/733m6qBH-jI"
-    - title: Lecture 9
-      text: Deep Reinforcement Learning
-      excerpt: <iframe width="100%" height="100%" src="https://www.youtube.com/embed/NP2XqpgTJyo" frameborder="0" allowfullscreen></iframe>
-      cta: Read notes
-      url: /lecture/9
-      cta: YouTube Link
-      url: "https://www.youtube.com/embed/NP2XqpgTJyo"
-    - title: Lecture 10
-      text: Chatbots / Closing Remarks
-      excerpt: <iframe width="100%" height="100%" src="https://www.youtube.com/embed/IFLstgCNOA4" frameborder="0" allowfullscreen></iframe>
-      cta: Read notes
-      url: /lecture/10
-      cta: YouTube Link
-      url: "https://www.youtube.com/embed/IFLstgCNOA4"
-
+      text: Parallel processing with multicore and GPU, Interactive Plotting
+      cta: (Coming soon!)
+      disabled: true
 ---

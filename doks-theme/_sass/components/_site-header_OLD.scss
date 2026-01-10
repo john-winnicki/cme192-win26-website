@@ -7,11 +7,8 @@
 	position: absolute;
 	width: 100%;
 	height: 5.625rem;
-	background:
-		$gradient-icme-stripe bottom / 100% 4px no-repeat,
-		url(../images/layout/bg-pattern.png),
-		$gradient-icme-soft;
-	box-shadow: 0 1px 0 rgba($color-dark-blue, .08);
+        background: url(../images/layout/bg-pattern.png), linear-gradient(90deg, $color-theme-blue 0%, $color-theme-orange 100%);
+	border-bottom: 1px solid rgba($color-dark-blue, .15);
 }
 
 /* ----- Navigation ----- */
@@ -19,7 +16,7 @@
 	@include link-reset;
 	display: block;
 	float: left;
-	color: $color-theme-blue;
+	color: $color-dark-blue;
 	font-family: $font-family-secondary;
 	font-weight: bold;
 	font-size: 2em;
@@ -28,7 +25,7 @@
 	&:hover,
 	&:focus,
 	&:active {
-		color: $color-theme-blue;
+		color: $color-dark-blue;
 	}
 
 	img {
@@ -55,16 +52,16 @@
 		font-size: .875em;
 		font-weight: 500;
 		font-family: $font-family-secondary;
-		line-height: 5.25rem;
+		line-height: calc(5.625rem - 1px);
 		text-transform: uppercase;
-		padding-bottom: .125rem;
-		box-shadow: inset 0 -2px transparent;
-		transition: box-shadow .2s;
+		border-bottom: 1px solid;
+		border-color: transparent;
+		transition: border-color .2s;
 
 		&:hover,
 		&:focus,
 		&:active {
-			box-shadow: inset 0 -2px $color-theme-orange;
+			border-color: $color-dark-blue;
 		}
 	}
 }
@@ -135,7 +132,7 @@
 		display: block;
 		height: 2px;
 		width: 1.875rem;
-		background-color: $color-theme-blue;
+		background-color: $color-dark-blue;
 		position: absolute;
 		left: 1.875rem;
 		transition: top .2s, transform .2s, opacity .2s;

@@ -21,23 +21,23 @@
 	border-radius: 3.125rem;
 }
 
-.btn--dark {
-	color: $color-white;
-	background-color: $color-dark-blue;
-	padding: .5625rem 1.5625rem;
-	transition: color .2s, background-color .2s;
+	.btn--dark {
+		color: $color-white;
+		background-color: $color-dark-blue;
+		padding: .5625rem 1.5625rem;
+		transition: color .2s, background-color .2s;
 
-	@media (min-width: $screen-sm-min) {
-		padding: .8125rem 2.1875rem;
-	}
+		@media (min-width: $screen-sm-min) {
+			padding: .8125rem 2.1875rem;
+		}
 
-	&:hover,
-	&:focus,
-	&:active {
-		color: $color-dark-blue;
-		background-color: $color-yellow;
+		&:hover,
+		&:focus,
+		&:active {
+			color: $color-white;
+			background-color: $color-theme-orange;
+		}
 	}
-}
 
 .btn--w-icon {
 	.icon {

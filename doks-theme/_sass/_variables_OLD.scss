@@ -8,26 +8,7 @@ $color-white: #fff !default;
 $color-black: #000 !default;
 $color-dark: #333 !default;
 $color-dark-blue: #253951 !default;
-
-// ICME brand palette (extracted from icme_new_logo_final_0.png)
-$color-icme-blue: #036894 !default;
-$color-icme-orange: #E98300 !default;
-$color-icme-yellow: #FEC511 !default;
-$color-icme-red: #C64732 !default;
-
-// Soft tints for large background areas (keeps dark text readable)
-$color-icme-blue-light: mix($color-icme-blue, $color-white, 15%) !default;
-$color-icme-orange-light: mix($color-icme-orange, $color-white, 15%) !default;
-$color-icme-yellow-light: mix($color-icme-yellow, $color-white, 15%) !default;
-$color-icme-red-light: mix($color-icme-red, $color-white, 15%) !default;
-
-// Brand gradients
-$gradient-icme-stripe: linear-gradient(90deg, $color-icme-blue 0%, $color-icme-red 33%, $color-icme-orange 66%, $color-icme-yellow 100%) !default;
-$gradient-icme-soft: linear-gradient(90deg, $color-icme-blue-light 0%, $color-icme-orange-light 100%) !default;
-$gradient-icme-soft-diagonal: linear-gradient(135deg, $color-icme-blue-light 0%, $color-icme-orange-light 100%) !default;
-
-// Generic accent(s)
-$color-yellow: $color-icme-yellow !default;
+$color-yellow: #f6d000 !default;
 
 // Base
 $color-h2-border: #dadada !default;
@@ -50,9 +31,9 @@ $color-section-grey: #f5f5f5 !default;
 // Callouts
 $color-callout: #f9f9f9 !default;
 $color-callout-success: #eaffee !default;
-$color-callout-info: $color-icme-blue-light !default;
-$color-callout-warning: $color-icme-yellow-light !default;
-$color-callout-danger: $color-icme-red-light !default;
+$color-callout-info: #f2f8ff !default;
+$color-callout-warning: #fffae9 !default;
+$color-callout-danger: #ffedeb !default;
 
 // Footer
 $color-footer-bg: #f5f5f5 !default;
@@ -64,15 +45,11 @@ $color-social-item: #bdbdbd !default;
 // Themes
 $color-theme-green: #F0FAE6 !default;
 $color-theme-purple: #FDE8F8 !default;
-
-// ICME-themed pastel surfaces
-$color-theme-red: $color-icme-red-light !default;
-$color-theme-yellow: $color-icme-yellow-light !default;
-$color-theme-blue-light: $color-icme-blue-light !default;
-
-// ICME primary hues
-$color-theme-blue: $color-icme-blue !default;
-$color-theme-orange: $color-icme-orange !default;
+$color-theme-red: #F7B5B1 !default;
+$color-theme-yellow: #FCFDE8 !default;
+$color-theme-blue-light: #E8F2FC !default;
+$color-theme-blue: #00537E !default;
+$color-theme-orange: #f58a07 !default;
 
 
 /* ----- Font families ----- */
