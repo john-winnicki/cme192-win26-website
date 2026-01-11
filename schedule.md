@@ -20,7 +20,7 @@ micro_nav: false
 
 - **Meeting time:** Thursdays, 4:30–5:20 PM (PT)
 - **Location:** Hewlett Teaching Center 102
-- **How to use this page:** The “Online modules to complete” are short MathWorks tutorials/onramps meant to get you up to speed for each lecture. Assignment due dates are highlighted in the schedule below.
+- **How to use this page:** The “Online modules to complete” are short MathWorks tutorials and Onramps designed to help you prepare for each lecture. These modules are optional for students who already have familiarity with the relevant domain or applications. Students who are new to a topic are strongly encouraged to complete the suggested Onramps in advance, otherwise the lecture content may feel fast. Assignment due dates are highlighted in the schedule below.
 
 <table id="schedule" class="table table-bordered no-more-tables" style="width: 100%; font-size: 0.8em;">
     <colgroup>
@@ -51,7 +51,7 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Required (MathWorks):</strong>
+                <strong>Review if topic is unfamiliar:</strong>
                 <ul>
                     <li><a href="https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted">MATLAB Onramp</a></li>
                     <li><a href="https://matlabacademy.mathworks.com/details/build-matlab-proficiency/lpmlbmp">Build MATLAB Proficiency (learning path)</a> (complete the first few items)</li>
@@ -85,7 +85,7 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Required (MathWorks):</strong>
+                <strong>Review if topic is unfamiliar:</strong>
                 <ul>
                     <li><a href="https://matlabacademy.mathworks.com/details/explore-data-with-matlab-plots/otmledp">Explore Data with MATLAB Plots</a></li>
                 </ul>
@@ -112,7 +112,7 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Required (MathWorks):</strong>
+                <strong>Review if topic is unfamiliar:</strong>
                 <ul>
                     <li><a href="https://matlabacademy.mathworks.com/details/solving-ordinary-differential-equations-with-matlab/odes">Solving Ordinary Differential Equations with MATLAB</a></li>
                     <li><a href="https://matlabacademy.mathworks.com/details/introduction-to-symbolic-math-with-matlab/symbolic">Introduction to Symbolic Math with MATLAB</a></li>
@@ -143,7 +143,7 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Required (MathWorks):</strong>
+                <strong>Review if topic is unfamiliar:</strong>
                 <ul>
                     <li><a href="https://matlabacademy.mathworks.com/details/import-data-from-multiple-files/otmlimf">Import Data from Multiple Files</a></li>
                     <li><a href="https://www.mathworks.com/help/matlab/import_export/tall-arrays.html">Tall Arrays for Out-of-Memory Data</a></li>
@@ -178,7 +178,7 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Required (MathWorks):</strong>
+                <strong>Review if topic is unfamiliar:</strong>
                 <ul>
                     <li><a href="https://matlabacademy.mathworks.com/details/statistics-onramp/orst">Statistics Onramp</a></li>
                     <li><a href="https://matlabacademy.mathworks.com/details/machine-learning-onramp/machinelearning">Machine Learning Onramp</a></li>
@@ -215,7 +215,7 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Required (MathWorks):</strong>
+                <strong>Review if topic is unfamiliar:</strong>
                 <ul>
                     <li><a href="https://matlabacademy.mathworks.com/details/optimization-onramp/optim">Optimization Onramp</a></li>
                 </ul>
@@ -254,7 +254,7 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Required (MathWorks):</strong>
+                <strong>Review if topic is unfamiliar:</strong>
                 <ul>
                     <li><a href="https://matlabacademy.mathworks.com/details/image-processing-onramp/imageprocessing">Image Processing Onramp</a></li>
                 </ul>
@@ -277,7 +277,7 @@ micro_nav: false
 
         <tr>
             <td>Lecture&nbsp;8</td>
-            <td> 03/13 </td>
+            <td> 03/05 </td>
             <td>
                 <strong>Topics:</strong> Signal processing in MATLAB (earthquake + audio examples)
                 <ul>
@@ -290,7 +290,7 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Required (MathWorks):</strong>
+                <strong>Review if topic is unfamiliar:</strong>
                 <ul>
                     <li><a href="https://matlabacademy.mathworks.com/details/signal-processing-onramp/signalprocessing">Signal Processing Onramp</a></li>
                 </ul>

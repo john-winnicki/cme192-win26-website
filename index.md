@@ -133,7 +133,7 @@ If you need flexibility due to extenuating circumstances, email the instructor.
 ### Attendance
 Students are expected to attend at least **four** class sessions.
 - Attendance is recorded using a sign-in sheet distributed at the beginning of each lecture.
-- If you anticipate missing more than four classes, a Google Form will be provided on the course website to explain additional absences.
+- If you anticipate missing more than four classes, use **[this form](https://docs.google.com/forms/d/e/1FAIpQLSce2qZOaSml7rJGJDIGuEqB_hmff-bSjLhSg6jtlLQqUU7C3Q/viewform?usp=dialog)** to explain additional absences. I’m very understanding of competing deadlines, unexpected situations, or personal circumstances you may not wish to share in detail. I simply ask that you keep me informed about your timelines. Keeping me in the loop helps me pace the course appropriately and check in if you start falling behind!
 
 ### Grade breakdown
 Final grades are determined using:
@@ -143,8 +143,8 @@ Final grades are determined using:
 
 ### Late policy
 - You may submit an assignment up to **72 hours** after the deadline for a **10% penalty**, without special justification.
-- For excused late submissions, request late days at least **24 hours before** the due date using the online form posted on the course website. Students must provide a reason when requesting late days.
-- There is **no penalty** for instructor-approved late submissions.
+- For excused late submissions, request late days at least **24 hours before** the due date using **[this form](https://docs.google.com/forms/d/e/1FAIpQLSce2qZOaSml7rJGJDIGuEqB_hmff-bSjLhSg6jtlLQqUU7C3Q/viewform?usp=dialog)**. Students must provide a reason when requesting late days.
+- There is **no penalty** for instructor-approved late submissions. Again, I’m very understanding of the fact that students often have overlapping academic deadlines, research commitments, interviews, travel, or other routine obligations. Just let me know about your situation so we can make sure you're staying on track!
 
 ### Regrades
 After receiving a grade on Gradescope, you may request a regrade through the Gradescope interface. To help with logistics, please submit regrade requests within **1 week** after the grade has been released.
@@ -200,4 +200,4 @@ If found guilty of a violation, your grade will be lowered by at least one lette
 Course materials include contributions from John Winnicki, Xiran Liu (ICME alum), Matthew J. Zahr (ICME alum), Reza Fazel-Rezai (MathWorks), Hung Le (ICME), and online resources provided by MathWorks.
 
 ---
-We hope you enjoy learning about MATLAB this quarter!
+**We hope you enjoy learning about MATLAB this quarter!**
