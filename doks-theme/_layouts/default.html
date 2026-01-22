@@ -19,13 +19,13 @@
 								{% endif %}
 								{% if page.page_nav.prev.content or page.page_nav.next.content %}
 									{% if page.page_nav.prev.content and page.page_nav.prev.url %}
-										<a href="{% if jekyll.environment == 'production' %}{{ site.baseurl }}{% endif %}{{ page.page_nav.prev.url }}" class="btn btn--dark btn--rounded btn--w-icon btn--w-icon-left">
+										<a href="{{ page.page_nav.prev.url | relative_url }}" class="btn btn--dark btn--rounded btn--w-icon btn--w-icon-left">
 											<i class="icon icon--arrow-left"></i>
 											{{ page.page_nav.prev.content }}
 										</a>
 									{% endif %}
 									{% if page.page_nav.next.content and page.page_nav.next.url %}
-										<a href="{% if jekyll.environment == 'production' %}{{ site.baseurl }}{% endif %}{{ page.page_nav.next.url }}" class="btn btn--dark btn--rounded btn--w-icon">
+										<a href="{{ page.page_nav.next.url | relative_url }}" class="btn btn--dark btn--rounded btn--w-icon">
 											<i class="icon icon--arrow-right"></i>
 											{{ page.page_nav.next.content }}
 										</a>
@@ -39,7 +39,7 @@
 										{{ button.content }}
 									</a>
 									{% else %}
-									<a href="{% if jekyll.environment == 'production' %}{{ site.baseurl }}{% endif %}{{ button.url }}" class="btn btn--dark btn--rounded btn--w-icon">
+									<a href="{{ button.url | relative_url }}" class="btn btn--dark btn--rounded btn--w-icon">
 										{% if button.icon %}<i class="icon icon--{{ button.icon }}"></i>{% endif %}
 										{{ button.content }}
 									</a>
@@ -53,11 +53,11 @@
 								<div class="align-inner">
 									<div class="hero-subheader__author">
 										<h4>Instructor</h4>
-                                                                               {% for people in site.course.staff %}
+                                                                                {% for people in site.course.staff %}
                                                                                {% if people.type == "Instructor" %}
                                                                                     <div class="instructor">
                                         <a target="_blank" href="{{ people.url }}">
-                    <img class="headshot" src="{% if jekyll.environment == 'production' %}{{ site.baseurl }}{% endif %}/doks-theme/assets/images/headshot/{{ people.image }}" style="text-align:center;">
+                    <img class="headshot" src="{{ people.image | remove_first: '/' | prepend: '/doks-theme/assets/images/headshot/' | relative_url }}" style="text-align:center;">
                 <div style="text-align:center;">{{ people.name }}<br>{{ people.type }}</div>
 	</a>
         </div>
@@ -107,20 +107,20 @@
 				</div><!-- /.container -->
 			</div><!-- /.section -->
 		{% endif %}
-		<div class="js-footer-area">
+			<div class="js-footer-area">
 			{% if page.page_nav.prev.content or page.page_nav.next.content %}
 				<nav class="page-nav">
 					<div class="container">
 						<div class="row">
 							<div class="col-xs-12">
 								{% if page.page_nav.prev.content and page.page_nav.prev.url %}
-									<a href="{% if jekyll.environment == 'production' %}{{ site.baseurl }}{% endif %}{{ page.page_nav.prev.url }}" class="page-nav__item page-nav__item--prev">
+									<a href="{{ page.page_nav.prev.url | relative_url }}" class="page-nav__item page-nav__item--prev">
 										<i class="icon icon--arrow-left"></i>
 										{{ page.page_nav.prev.content }}
 									</a><!-- /.page-nav__item -->
 								{% endif %}
 								{% if page.page_nav.next.content and page.page_nav.next.url %}
-									<a href="{% if jekyll.environment == 'production' %}{{ site.baseurl }}{% endif %}{{ page.page_nav.next.url }}" class="page-nav__item page-nav__item--next">
+									<a href="{{ page.page_nav.next.url | relative_url }}" class="page-nav__item page-nav__item--next">
 										{{ page.page_nav.next.content }}
 										<i class="icon icon--arrow-right"></i>
 									</a><!-- /.page-nav__item -->

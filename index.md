@@ -1,7 +1,7 @@
 ---
 layout: default
 keywords: [MATLAB, scientific computing, engineering, visualization, numerical linear algebra, ODEs, PDEs, statistics, machine learning, optimization, simulation, image processing, signal processing, parallel computing]
-title: CME 192 — MATLAB for Scientific Computing and Engineering
+title: CME192 MATLAB for Scientific Computing and Engineering
 description: A short, eight-week (eight-lecture) course focused on applied MATLAB workflows for scientific computing and engineering, with an emphasis on real-world datasets and toolbox-driven analysis.
 buttons: [schedule, syllabus-pdf, canvas, github]
 micro_nav: true

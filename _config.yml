@@ -1,7 +1,9 @@
 # Temporary GitPage Host setup
 title: CME192 MATLAB for Scientific Computing and Engineering
-baseurl: "/cme192-win26"
+url: "https://stanford.edu"
+baseurl: "/class/cme192"
 repository: "john-winnicki/cme192-win26"
+
 
 # Theme settings
 doks:
@@ -12,7 +14,7 @@ doks:
             image: true
         nav:
             - item_name: Schedule
-              item_url: '/schedule'
+              item_url: '/schedule/'
             - item_name: Lecture
               item_url: '/lecture'
             - item_name: Notes
@@ -64,8 +66,8 @@ course:
         schedule:
             icon:
             content: Schedule
-            url: '/schedule'
-            external_url: true
+            url: '/schedule/'
+            external_url: false
         syllabus-pdf:
             icon:
             content: Syllabus
@@ -139,6 +141,6 @@ course:
     staff:
         - name: John Winnicki
           type: Instructor
-          url: https://linkedin.com/in/winnicki
+          url: https://www.linkedin.com/in/johnwinnicki
           image: JohnWinnicki.jpg
     ta: []

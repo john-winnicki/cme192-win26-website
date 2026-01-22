@@ -65,7 +65,7 @@ micro_nav: false
             <td>
                 <ul>
                     <li><a href="https://github.com/john-winnicki/cme192-win26/tree/main/lecture_01/livescript">Livescript</a></li>
-                    <li><a href="https://drive.google.com/file/d/1AvNmw1YSRzSwfPJIsSmfffL5HszXGVRf/view?usp=drive_link">Slides</a></li>
+                    <li><a href="https://github.com/john-winnicki/cme192-win26/blob/main/lecture_01/CME192_Lecture_01_Intro.pdf">Slides</a></li>
                 </ul>
             </td>
         </tr>
@@ -96,7 +96,8 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                Coming soon!
+                <li><a href="https://github.com/john-winnicki/cme192-win26/tree/main/lecture_02/Lecture_02">Livescript</a></li>
+                <li><a href="https://github.com/john-winnicki/cme192-win26/blob/main/lecture_02/CME192_Lecture_02_AdvancedPlotting.pdf">Slides</a></li>
             </td>
         </tr>
 
@@ -126,7 +127,10 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                Coming soon!
+                <li><a href="https://github.com/john-winnicki/cme192-win26/tree/main/lecture_03/Lecture_03">Livescript</a></li>
+                <li><a href="https://github.com/john-winnicki/cme192-win26/blob/main/lecture_03/CME192_Lecture_03_NLA-PDE-Symbolic.pdf">Slides</a></li> 
+                PDEs currently omitted. 
+            </td>
             </td>
         </tr>
 

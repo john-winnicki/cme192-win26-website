@@ -17,13 +17,15 @@ grid_navigation:
       cta: View slides
       url: "https://docs.google.com/presentation/d/1ukaVcLaaI-2llXlyjCS5LlKIRxmWEQwiWv2u-cJslVs/edit?usp=drive_link"
     - title: Lecture 2
+      excerpt: <iframe src="https://docs.google.com/presentation/d/1YOPYFBfg6oIGTX751M3dldOem9RLmq5WpUjwAd34y_s/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
       text: Advanced plotting and visualizations in MATLAB
-      cta: (Coming soon!)
-      disabled: true
+      cta: View slides
+      url: "https://docs.google.com/presentation/d/1YOPYFBfg6oIGTX751M3dldOem9RLmq5WpUjwAd34y_s/"
     - title: Lecture 3
+      excerpt: <iframe src="https://docs.google.com/presentation/d/1l5xeODeOTKaQDF0E92h2uaOmwVOyL5vWLGw_m3Uds9s/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
       text: Numerical Linear Algebra, ODEs/PDEs, and Symbolic Math
-      cta: (Coming soon!)
-      disabled: true
+      cta: View slides (PDEs currently omitted)
+      url: "https://docs.google.com/presentation/d/1l5xeODeOTKaQDF0E92h2uaOmwVOyL5vWLGw_m3Uds9s"
     - title: Lecture 4
       text: Big data, python/c++ in MATLAB, Intro to machine learning
       cta: (Coming soon!)
