@@ -35,6 +35,7 @@ The course introduces essential MATLAB programming concepts and data structures,
 
 ## Background Survey
 There is an online survey to tell the instructor about your background, why you are taking the class, and your interests. **[The form is located here](https://docs.google.com/forms/d/e/1FAIpQLSfXONpf-9ymeT7_MKQzLUAltUeRJ215mjopVkIfaqRGy7bBaw/viewform?usp=publish-editor)**. Course content may be adjusted based on survey responses. You will find the survey link on the course website (and/or Canvas).
+This background survey counts as one bonus attendance mark! 
 
 ## Support and Communication
 - **Questions and concerns:** Email the instructor at winnicki@stanford.edu.
@@ -125,7 +126,7 @@ Each assignment will be a set of computational tasks leveraging tools in the MAT
 - Optional **team matching** forms will be provided for students looking to connect with others.
 
 **Due dates (Winter 2026):**
-- Assignment 1 due: **February 15**
+- Assignment 1 due: **February 20**
 - Assignment 2 due: **March 15**
 
 If you need flexibility due to extenuating circumstances, email the instructor.

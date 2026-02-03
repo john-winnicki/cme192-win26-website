@@ -33,7 +33,7 @@ No. Your grade is based on the two assignments and attendance.
 
 ## What are the assignments and due dates?
 Two applied MATLAB assignments (individual or small teams):
-- Assignment 1 due: **February 15**
+- Assignment 1 due: **February 20**
 - Assignment 2 due: **March 15**
 
 ## When will the assignments be released? 

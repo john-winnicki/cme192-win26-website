@@ -12,7 +12,7 @@ micro_nav: false
 ## Announcements
 - Course materials and announcements will be posted to the course website and course GitHub.
 - **Assignments:** two graded assignments (work individually or in teams).
-  - **Assignment 1 due:** 02/15
+  - **Assignment 1 due:** 02/20
   - **Assignment 2 due:** 03/15
 - Questions or concerns: email the instructor (winnicki@stanford.edu).
 
@@ -129,7 +129,6 @@ micro_nav: false
             <td>
                 <li><a href="https://github.com/john-winnicki/cme192-win26/tree/main/lecture_03/Lecture_03">Livescript</a></li>
                 <li><a href="https://github.com/john-winnicki/cme192-win26/blob/main/lecture_03/CME192_Lecture_03_NLA-PDE-Symbolic.pdf">Slides</a></li> 
-                PDEs currently omitted. 
             </td>
             </td>
         </tr>
@@ -162,7 +161,8 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                Coming soon!
+                <li><a href="https://github.com/john-winnicki/cme192-win26/tree/main/lecture_04/Lecture_04">Livescript</a></li>
+                <li><a href="https://github.com/john-winnicki/cme192-win26/blob/main/lecture_04/CME192_Lecture_04_BigData-PythonCPP.pdf">Slides</a></li> 
             </td>
         </tr>
 
@@ -237,7 +237,7 @@ micro_nav: false
 
         <tr>
             <td id="Assignment_1" colspan="5" style="text-align:center; vertical-align:middle;background-color:#fffde7">
-                <strong>Assignment 1</strong> (Due 02/15)
+                <strong>Assignment 1</strong> (Due 02/20)
             </td>
         </tr>
 
