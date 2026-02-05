@@ -141,6 +141,6 @@ course:
     staff:
         - name: John Winnicki
           type: Instructor
-          url: https://www.linkedin.com/in/johnwinnicki
+          url: https://www.johnwinnicki.com/
           image: JohnWinnicki.jpg
     ta: []

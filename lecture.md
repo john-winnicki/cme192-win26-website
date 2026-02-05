@@ -24,18 +24,18 @@ grid_navigation:
     - title: Lecture 3
       excerpt: <iframe src="https://docs.google.com/presentation/d/1l5xeODeOTKaQDF0E92h2uaOmwVOyL5vWLGw_m3Uds9s/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
       text: Numerical Linear Algebra, ODEs/PDEs, and Symbolic Math
-      cta: View slides (PDEs currently omitted)
+      cta: View slides
       url: "https://docs.google.com/presentation/d/1l5xeODeOTKaQDF0E92h2uaOmwVOyL5vWLGw_m3Uds9s"
     - title: Lecture 4
       excerpt: <iframe src="https://docs.google.com/presentation/d/1_b4XeA5nWYILvexRflN87NZDICTo9gaAlBexPpNb5AY/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
       text: Big data, python/c++ in MATLAB, Intro to machine learning
       url: "https://docs.google.com/presentation/d/1_b4XeA5nWYILvexRflN87NZDICTo9gaAlBexPpNb5AY"
-      cta: (Coming soon!)
-      disabled: true
+      cta: View slides
     - title: Lecture 5
+      excerpt: <iframe src="https://docs.google.com/presentation/d/11jtvy_EGp19oLPa9B5gosih6k-vg_2Ys1K_K9g1Bevk/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
       text: Statistics and Machine Learning in MATLAB
-      cta: (Coming soon!)
-      disabled: true
+      url: "https://docs.google.com/presentation/d/11jtvy_EGp19oLPa9B5gosih6k-vg_2Ys1K_K9g1Bevk"
+      cta: View slides
     - title: Lecture 6
       text: Optimization and Simulation/Modeling
       cta: (Coming soon!)
