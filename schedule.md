@@ -200,7 +200,8 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                Coming soon!
+                <li><a href="https://github.com/john-winnicki/cme192-win26/tree/main/lecture_05/Lecture_05">Livescript</a></li>
+                <li><a href="https://github.com/john-winnicki/cme192-win26/blob/main/lecture_05/CME192_Lecture_05_MachineLearning.pdf">Slides</a></li> 
             </td>
         </tr>
 
