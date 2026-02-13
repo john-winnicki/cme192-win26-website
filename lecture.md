@@ -37,11 +37,11 @@ grid_navigation:
       url: "https://docs.google.com/presentation/d/11jtvy_EGp19oLPa9B5gosih6k-vg_2Ys1K_K9g1Bevk"
       cta: View slides
     - title: Lecture 6
-      text: Optimization and Simulation/Modeling
-      cta: (Coming soon!)
-      disabled: true
+      excerpt: <iframe src="https://docs.google.com/presentation/d/1TwwC_Du5HuEG1w4XxgBW1kOzMIC_2udEn-2_m1MOkZY/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+      text: Optimization
+      url: "https://docs.google.com/presentation/d/1TwwC_Du5HuEG1w4XxgBW1kOzMIC_2udEn-2_m1MOkZY"
     - title: Lecture 7
-      text: Image Processing and Signal Processing
+      text: Simulation/Modeling, Image Processing, and Signal Processing
       cta: (Coming soon!)
       disabled: true
     - title: Lecture 8

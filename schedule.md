@@ -12,7 +12,7 @@ micro_nav: false
 ## Announcements
 - Course materials and announcements will be posted to the course website and course GitHub.
 - **Assignments:** two graded assignments (work individually or in teams).
-  - **Assignment 1 due:** 02/20
+  - **[Assignment 1](https://github.com/john-winnicki/cme192-win26/tree/main/assignment1) due:** 02/20
   - **Assignment 2 due:** 03/15
 - Questions or concerns: email the instructor (winnicki@stanford.edu).
 
@@ -232,13 +232,14 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                Coming soon!
+                <li><a href="https://github.com/john-winnicki/cme192-win26/tree/main/lecture_06/Lecture_06">Livescript</a></li>
+                <li><a href="https://github.com/john-winnicki/cme192-win26/blob/main/lecture_06/CME192_Lecture_06_Optimization.pdf">Slides</a></li> 
             </td>
         </tr>
 
         <tr>
             <td id="Assignment_1" colspan="5" style="text-align:center; vertical-align:middle;background-color:#fffde7">
-                <strong>Assignment 1</strong> (Due 02/20)
+                <strong><a href="https://github.com/john-winnicki/cme192-win26/tree/main/assignment1">Assignment 1</a></strong> (Due 02/20)
             </td>
         </tr>
 
