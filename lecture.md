@@ -41,11 +41,11 @@ grid_navigation:
       text: Optimization
       url: "https://docs.google.com/presentation/d/1TwwC_Du5HuEG1w4XxgBW1kOzMIC_2udEn-2_m1MOkZY"
     - title: Lecture 7
-      text: Simulation/Modeling, Image Processing, and Signal Processing
-      cta: (Coming soon!)
-      disabled: true
+      text: Image Processing
+      excerpt: <iframe src="https://docs.google.com/presentation/d/1lC-7deEpLYb12oF33FSH5iK_rqUOJqOHxSRFxAjEN74/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+      url: "https://docs.google.com/presentation/d/1lC-7deEpLYb12oF33FSH5iK_rqUOJqOHxSRFxAjEN74"
     - title: Lecture 8
-      text: Parallel processing with multicore and GPU, Interactive Plotting
+      text: Signal Processing, Parallel processing with multicore and GPU, Simulation/Modeling
       cta: (Coming soon!)
       disabled: true
 ---

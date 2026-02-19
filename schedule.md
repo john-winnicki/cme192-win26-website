@@ -277,7 +277,8 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                Coming soon!
+                <li><a href="https://github.com/john-winnicki/cme192-win26/tree/main/lecture_07/Lecture_07">Livescript</a></li>
+                <li><a href="https://github.com/john-winnicki/cme192-win26/blob/main/lecture_07/CME192_Lecture_07_ImageProcessing.pdf">Slides</a></li> 
             </td>
         </tr>
 
