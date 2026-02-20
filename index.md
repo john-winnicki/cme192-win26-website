@@ -126,7 +126,7 @@ Each assignment will be a set of computational tasks leveraging tools in the MAT
 - Optional **team matching** forms will be provided for students looking to connect with others.
 
 **Due dates (Winter 2026):**
-- Assignment 1 due: **February 20**
+- Assignment 1 due: **February 23**
 - Assignment 2 due: **March 15**
 
 If you need flexibility due to extenuating circumstances, email the instructor.
