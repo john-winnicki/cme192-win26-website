@@ -34,7 +34,7 @@ No. Your grade is based on the two assignments and attendance.
 ## What are the assignments and due dates?
 Two applied MATLAB assignments (individual or small teams):
 - Assignment 1 due: **February 23**
-- Assignment 2 due: **March 15**
+- Assignment 2 due: **March 13**
 
 ## When will the assignments be released? 
 The assignments will be released at least 2 weeks prior to the due date, but usually much sooner. 

@@ -13,7 +13,7 @@ micro_nav: false
 - Course materials and announcements will be posted to the course website and course GitHub.
 - **Assignments:** two graded assignments (work individually or in teams).
   - **[Assignment 1](https://github.com/john-winnicki/cme192-win26/tree/main/assignment1) due:** 02/23
-  - **Assignment 2 due:** 03/15
+  - **[Assignment 2](https://github.com/john-winnicki/cme192-win26/tree/main/assignment2) due:** 03/13
 - Questions or concerns: email the instructor (winnicki@stanford.edu).
 
 ## Schedule
@@ -245,7 +245,7 @@ micro_nav: false
 
         <tr>
             <td>Lecture&nbsp;7</td>
-            <td> 02/26 </td>
+            <td> 02/19 </td>
             <td>
                 <strong>Topics:</strong> Image processing in MATLAB (Astronomy edition)
                 <ul>
@@ -284,9 +284,9 @@ micro_nav: false
 
         <tr>
             <td>Lecture&nbsp;8</td>
-            <td> 03/05 </td>
+            <td> 02/26 </td>
             <td>
-                <strong>Topics:</strong> Signal processing in MATLAB (earthquake + audio examples)
+                <strong>Topics:</strong> Signal processing in MATLAB (earthquake + audio examples), Parallel Processing, Interactive Plotting
                 <ul>
                     <li>Signal Processing Toolbox overview and a practical signal processing “pipeline”</li>
                     <li>Working with time-stamped signals via timetables; aligning and synchronizing signals</li>
@@ -313,13 +313,14 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                Coming soon!
+                <li><a href="https://github.com/john-winnicki/cme192-win26/tree/main/lecture_08/Lecture_08">Livescript</a></li>
+                <li><a href="https://github.com/john-winnicki/cme192-win26/blob/main/lecture_08/CME192_Lecture_08_SignalProcessing-Parallel-Interactive.pdf">Slides</a></li> 
             </td>
         </tr>
 
         <tr>
             <td id="Assignment_2" colspan="5" style="text-align:center; vertical-align:middle;background-color:#fffde7">
-                <strong>Assignment 2</strong> (Due 03/15)
+                <strong><a href="https://github.com/john-winnicki/cme192-win26/tree/main/assignment2">Assignment 2</a></strong> (Due 03/13)
             </td>
         </tr>
 

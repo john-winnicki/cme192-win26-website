@@ -45,7 +45,7 @@ grid_navigation:
       excerpt: <iframe src="https://docs.google.com/presentation/d/1lC-7deEpLYb12oF33FSH5iK_rqUOJqOHxSRFxAjEN74/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
       url: "https://docs.google.com/presentation/d/1lC-7deEpLYb12oF33FSH5iK_rqUOJqOHxSRFxAjEN74"
     - title: Lecture 8
-      text: Signal Processing, Parallel processing with multicore and GPU, Simulation/Modeling
-      cta: (Coming soon!)
-      disabled: true
+      text: Signal Processing, Parallel processing with multicore and GPU, Interactive Plotting
+      excerpt: <iframe src="https://docs.google.com/presentation/d/1zik15bgsP4hnX_G7q9lhVOFS9UFv4SkHRcAPKI_8jNk/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+      url: "https://docs.google.com/presentation/d/1zik15bgsP4hnX_G7q9lhVOFS9UFv4SkHRcAPKI_8jNk"
 ---
